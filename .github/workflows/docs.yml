@@ -12,6 +12,11 @@ jobs:
     # runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
+      - run: git lfs install --skip-smudge
+      - run: git lfs pull
+      - run: git lfs fetch
+      - run: git lfs checkout
+
       # - uses: actions/setup-python@v2
       #   with:
       #     python-version: 3.x
