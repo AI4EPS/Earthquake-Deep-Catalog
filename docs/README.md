@@ -1,6 +1,6 @@
-# [Deep Earthquake Catalogs](https://ai4eps.github.io/Deep-Earthquake-Catalog)
+# [Deep Earthquake Catalogs](https://ai4eps.github.io/DeepEarthquakeCatalog)
 
-[![documentation](https://github.com/AI4EPS/Deep-Earthquake-Catalog/actions/workflows/docs.yml/badge.svg?branch=main)](https://ai4eps.github.io/Deep-Earthquake-Catalog)
+[![documentation](https://github.com/AI4EPS/DeepEarthquakeCatalog/actions/workflows/docs.yml/badge.svg?branch=main)](https://ai4eps.github.io/DeepEarthquakeCatalog)
 
 # Catalog Format
 
