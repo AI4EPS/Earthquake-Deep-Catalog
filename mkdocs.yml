@@ -8,8 +8,9 @@ repo_url: 'https://github.com/ai4eps/Earthquake-Deep-Catalog'
 nav:
   - Overview: README.md
   - Hawaii: 
-    - Standard catalog: catalogs/Hawaii-220181101-20220501/standard.html
-    - HypoDD catalog: catalogs/Hawaii-220181101-20220501/hypodd_cc.html
+    - Catalog: catalogs/Hawaii/catalog.html
+    # - Standard catalog: catalogs/Hawaii-220181101-20220501/standard.html
+    # - HypoDD catalog: catalogs/Hawaii-220181101-20220501/hypodd_cc.html
   - Tonga:
     - Catalog: catalogs/Tonga-OBS/catalog.html
 theme:
