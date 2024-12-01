@@ -8,9 +8,9 @@ repo_url: 'https://github.com/ai4eps/Earthquake-Deep-Catalog'
 nav:
   - Overview: README.md
   - Hawaii: 
-    - Catalog: catalogs/Hawaii/catalog.html
+    - Full catalog: catalogs/Hawaii/catalog.html
     # - Standard catalog: catalogs/Hawaii-220181101-20220501/standard.html
-    # - HypoDD catalog: catalogs/Hawaii-220181101-20220501/hypodd_cc.html
+    - Small catalog: catalogs/Hawaii-220181101-20220501/hypodd_cc.html
   - Tonga:
     - Catalog: catalogs/Tonga-OBS/catalog.html
 theme:
@@ -21,12 +21,12 @@ theme:
 plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: True
-  - redirects:
-      redirect_maps:
-        'earthquake-deep-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
-        'earthquake-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
-        'earthquakecatalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
-        'catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
+  # - redirects:
+  #     redirect_maps:
+  #       'earthquake-deep-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
+  #       'earthquake-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
+  #       'earthquakecatalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
+  #       'catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
 
 # extra:
 #   analytics:
