@@ -24,8 +24,8 @@ plugins:
   - redirects:
       redirect_maps:
         'earthquake-deep-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
-        'earthquake-deep-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
         'earthquake-catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
+        'earthquakecatalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
         'catalog.md': 'https://ai4eps.github.io/Earthquake-Deep-Catalog/'
 
 # extra:
